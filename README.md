@@ -38,6 +38,8 @@ Rewrite of an industrial maintenance management system for manufacturing plants:
 
 **Databases:** MySQL · SQL Server · PostgreSQL · Supabase · database design, stored procedures, and triggers
 
+**AI & Agents:** Claude Code and other AI coding agents · agentic development workflows · prompt and context engineering (`CLAUDE.md` / `AGENTS.md`) · MCP tools and integrations · AI-assisted code review, testing, and documentation · deep learning for vision (PyTorch, MediaPipe, RAFT-Stereo)
+
 **Tools:** Git/GitHub · Docker / Dev Containers · Visual Studio · VS Code · Raspberry Pi · CircuitVerse
 
 ## 🛠️ Skills
@@ -45,6 +47,7 @@ Rewrite of an industrial maintenance management system for manufacturing plants:
 **Technical Skills:**
 - Object-Oriented Programming and Clean Architecture
 - Full-stack Web Development
+- AI-Assisted Software Development: planning, building, and reviewing projects with AI agents like Claude
 - Game Development
 - Computer Vision
 - Algorithm Design
