@@ -9,7 +9,7 @@ Computer Science Engineering student at **CETYS Universidad** with a **94/100 GP
 ## 🚀 Currently Building
 
 ### 🧭 Ethoria · *personal project*
-All-in-one personal system for tasks (Trello-style boards + Pomodoro), habits, calisthenics workouts, and goals, with a dashboard that ties them together. Installable PWA.
+All-in-one personal system for tasks (Trello-style boards + Pomodoro), habits and goals, with a dashboard that ties them together. Installable PWA.
 `Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `Supabase`
 
 ### 🏭 New-KORA
