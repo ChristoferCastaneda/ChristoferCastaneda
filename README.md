@@ -25,6 +25,8 @@ Rewrite of an industrial maintenance management system for manufacturing plants:
 | 🚗 [**3D Mapping Car**](https://github.com/ChristoferCastaneda/3D_mapping_Car) | Remote-controlled robot car with a stereo camera that builds a 3D point-cloud map using visual odometry and SLAM | Python, Raspberry Pi, PyTorch, OpenCV, Open3D |
 | 📷 [**Panoramas with ORB from scratch**](https://github.com/ChristoferCastaneda/Examen_Imagenes_Video) | Image stitching pipeline built only with NumPy: FAST, Harris, BRIEF, Hamming matching, RANSAC homography | Python, NumPy |
 | 🏆 [**Tournament Services**](https://github.com/ChristoferCastaneda/tournament_double_elimination) | REST API and web UI for double-elimination tournaments, with brackets, scores, and a champion | .NET 10, PostgreSQL, Docker |
+| 🎵 [**SoundTrack**](https://github.com/ivanfmm/SoundTrack) | Music review social network: rate and review songs, albums, and artists, follow users, and comment, with Spotify integration | ASP.NET Core, React, PostgreSQL (Supabase), Spotify API |
+| 🤝 [**ALS Recommendation System**](https://github.com/ivanfmm/ALS) | Recommends contacts with similar music taste using collaborative filtering (ALS) and LSH on listening history, with a desktop UI | Python, PySpark MLlib, Tkinter |
 | 🗺️ **GPS-CETYS** | Campus navigation over a 600+ location graph using Dijkstra, with live route drawing | C++, SFML |
 | 🏨 [**Hotel Database System**](https://github.com/ChristoferCastaneda/Hotel_Cinco_Estrellas) | Hotel management database (80 rooms, 236 employees) with 29 tables, triggers, and stored procedures | MySQL |
 | 🧠 **Simon-Dice Processor** | Custom Harvard-architecture CPU with a 4-bit ALU and 8 custom instructions to play Simon Says | CircuitVerse |
@@ -34,7 +36,7 @@ Rewrite of an industrial maintenance management system for manufacturing plants:
 
 **Languages:** C/C++ · C# · Python · TypeScript · JavaScript · SQL
 
-**Frameworks & Libraries:** .NET / ASP.NET Core · Entity Framework Core · Next.js · React · Tailwind CSS · Unity · SFML · OpenCV · MediaPipe · NumPy · PyTorch
+**Frameworks & Libraries:** .NET / ASP.NET Core · Entity Framework Core · Next.js · React · Tailwind CSS · Unity · SFML · OpenCV · MediaPipe · NumPy · PyTorch · PySpark MLlib
 
 **Databases:** MySQL · SQL Server · PostgreSQL · Supabase · database design, stored procedures, and triggers
 
