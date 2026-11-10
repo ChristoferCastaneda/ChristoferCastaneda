@@ -2,7 +2,7 @@
 
 ## About Me
 
-Computer Science Engineering student at **CETYS Universidad** with a **94/100 GPA**. Passionate about programming and seeking opportunities in cybersecurity, AI, databases, and cloud computing.
+Computer Science Engineering student at **CETYS Universidad** with a 4.0 GPA. Passionate about programming and seeking opportunities in cybersecurity, AI, databases, and cloud computing.
 
 🏆 **ExpoCETYS Winner 2024**: two first places in Computer Graphics competitions
 
